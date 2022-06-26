@@ -1,5 +1,5 @@
 """
-WSGI config for carlisleStudentProperties project.
+WSGI config for cspsite project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'carlisleStudentProperties.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'cspsite.settings')
 
 application = get_wsgi_application()
