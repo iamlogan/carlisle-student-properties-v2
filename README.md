@@ -1,2 +1,5 @@
-# carlisle-student-properties-v2
+# Carlisle Student Properties Version 2
  
+In development.
+
+Aim: make the website administrative.
